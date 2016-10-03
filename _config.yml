@@ -12,6 +12,10 @@ color:
     - '#333333'
 github: true
 layout_spectrum: 0.027217786060646176
+author:
+  name: John Paull
+  email: jpaull@uptrendco.com
+  url: www.uptrendco.com
 name: Uptrend
 title: Connecting the best in marketing and application development
 description: 'Creating connections, sustainable processes and results'
