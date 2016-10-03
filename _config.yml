@@ -1,0 +1,17 @@
+typography_spectrum: 0.680172391468659
+color:
+  brandStrength: 0.3017067965120077
+  lightness: 0.7800275189802051
+  saturation: 0.7361127655021846
+  rhythmicContrast: 0.08394507388584316
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.027217786060646176
+name: Uptrend
+title: Connecting the best in marketing and application development
+description: 'Creating connections, sustainable processes and results'
